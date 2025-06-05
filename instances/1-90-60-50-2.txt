@@ -406,7 +406,7 @@ ActivitiesInProject: [
 
 nActivityModes: [ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 ]
 
-ActivitiyDurationWithMode: [
+ActivityDurationWithMode: [
 1	1	
 8	6	
 8	6	
@@ -423,6 +423,7 @@ ActivitiyDurationWithMode: [
 8	6	
 10	7	
 ]
+
 StintsInProject: [
 [ 1 2 3 4 5 ]
 ]

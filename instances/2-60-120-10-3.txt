@@ -481,7 +481,7 @@ ActivitiesInProject: [
 
 nActivityModes: [ 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 ]
 
-ActivitiyDurationWithMode: [
+ActivityDurationWithMode: [
 1	1	1	
 26	18	35	
 13	9	18	
@@ -538,6 +538,7 @@ ActivitiyDurationWithMode: [
 18	12	24	
 18	12	24	
 ]
+
 StintsInProject: [
 [ 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 ]
 [ 19 20 21 22 23 24 25 26 27 ]
