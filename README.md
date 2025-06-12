@@ -9,7 +9,7 @@ Equipment needs to be transported between the different locations. To ensure tha
 ## Instance documentation
 The instances that can be found in the [instances](instances) folder are defined using the format used by FICO Xpress Mosel.
 
-The instance parameters are listed and explained below.
+The instance parameters are listed and explained below. All costs are given in NOK.
 
 ### Scalar parameters
 For parameters that are scalars, there are only one number and no brackets after the colon.
